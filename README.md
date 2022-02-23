@@ -29,14 +29,10 @@
 
 
 :star: [Codeforces](https://codeforces.com/profile/Tushar499) <br>
-:star: [Toph](https://toph.co/u/Tushar499) <br>
-:star: [HackerRank](https://www.hackerrank.com/Tushar499) <br>
-:star: [HackerEarth](https://www.hackerearth.com/@Tushar499) <br>
 :star: [URI](https://www.beecrowd.com.br/judge/en/profile/481111) <br>
-:star: [Dimik OJ](https://dimikoj.com/) <br>
 :star: [Leetcode](https://leetcode.com/Tushar499/) <br>
-:star: [UVa](http://onlinejudge.org/)<br>
-<i>Many more are coming soon... <i> :clap: 
+
+<i>Many more are coming soon... <i> 
 </div> 
   
  ![](https://raw.githubusercontent.com/Tushar499/Tushar499/master/profile-summary-card-output/default/0-profile-details.svg)
