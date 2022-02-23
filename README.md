@@ -4,9 +4,15 @@
 - 🌱 I’m currently learning C & Java
 - 💞️ I’m looking to collaborate on App development
 - 📫 How to reach me : www.facebook.com/Tushar499
+<br />
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Tushar499&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </div>
+
+<div align="center">
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tushar499&show_icons=true&locale=en&layout=compact" alt="Mahmudur Rahman Tushar" /></p>
+</div>
+
 <div align="center">
 <h2 align="center">Contact with me</h2>
 
@@ -18,16 +24,31 @@
 [<img align="left" alt="Mahmudur Rahman Tushar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mahmudur Rahman Tushar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-	<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tushar499&show_icons=true&locale=en&layout=compact" alt="Mahmudur Rahman Tushar" /></p>
-
-
 [facebook]: https://facebook.com/Tushar499
 [twitter]: https://twitter.com/mrtushar5
 [youtube]: https://www.youtube.com/channel/UCAhH6mZwhBSM0KPOp0lrKPg
 [instagram]: https://www.instagram.com/tushu499/
 [linkedin]: https://www.linkedin.com/in/mhamudur-rahman-tushar/
 [telegram]: https://t.me/Tushar499
+	<br />
+	<br />
+### 🛠 &nbsp;Tech & Tools
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c++)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse)&nbsp;
+![CodeBlocks](https://img.shields.io/badge/-Code::Blocks-05122A?style=flat&logo=codeblocks)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Windows](https://img.shields.io/badge/-Windowa-05122A?style=flat&logo=windows)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+<br />
+	<br />
 </div>
 
 
