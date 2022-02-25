@@ -34,7 +34,6 @@
 	<br />
 ### 🛠 &nbsp;Tech & Tools
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c++)&nbsp;
