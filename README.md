@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @Tushar499
 - 👀 I’m interested in Software development 
-- 🌱 I’m currently learning C & Java
+- 🌱 I’m currently learning C++ & DSA.
 - 💞️ I’m looking to collaborate on App development
 - 📫 How to reach me : www.facebook.com/Tushar499
 <br />
