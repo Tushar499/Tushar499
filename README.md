@@ -12,27 +12,10 @@
 <div align="center">
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tushar499&show_icons=true&locale=en&layout=compact" alt="Mahmudur Rahman Tushar" /></p>
 </div>
-
+<br />
 <div align="center">
-<h2 align="center">Contact with me</h2>
+<h2 align="center">🛠&nbsp;Tech & Tools</h2>
 
-
-[<img align="left" alt="Mahmudur Rahman Tushar | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
-[<img align="left" alt="Mahmudur Rahman Tushar | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Mahmudur Rahman Tushar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Mahmudur Rahman Tushar | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
-[<img align="left" alt="Mahmudur Rahman Tushar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mahmudur Rahman Tushar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[facebook]: https://facebook.com/Tushar499
-[twitter]: https://twitter.com/mrtushar5
-[youtube]: https://www.youtube.com/channel/UCAhH6mZwhBSM0KPOp0lrKPg
-[instagram]: https://www.instagram.com/tushu499/
-[linkedin]: https://www.linkedin.com/in/mhamudur-rahman-tushar/
-[telegram]: https://t.me/Tushar499
-	<br />
-	<br />
-### 🛠 &nbsp;Tech & Tools
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
@@ -60,8 +43,26 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tushar499&theme=dracula)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tushar499&theme=dracula)
 
 </div>
+<div align="center">
+<h2 align="center">Contact with me</h2>
 
 
+[<img align="left" alt="Mahmudur Rahman Tushar | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
+[<img align="left" alt="Mahmudur Rahman Tushar | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Mahmudur Rahman Tushar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Mahmudur Rahman Tushar | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
+[<img align="left" alt="Mahmudur Rahman Tushar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Mahmudur Rahman Tushar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[facebook]: https://facebook.com/Tushar499
+[twitter]: https://twitter.com/mrtushar5
+[youtube]: https://www.youtube.com/channel/UCAhH6mZwhBSM0KPOp0lrKPg
+[instagram]: https://www.instagram.com/tushu499/
+[linkedin]: https://www.linkedin.com/in/mhamudur-rahman-tushar/
+[telegram]: https://t.me/Tushar499
+	<br />
+	<br />
+</div>
 
 ---
 <details>
