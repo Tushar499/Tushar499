@@ -57,7 +57,7 @@
 [facebook]: https://facebook.com/Tushar499
 [twitter]: https://twitter.com/mrtushar5
 [youtube]: https://www.youtube.com/channel/UCAhH6mZwhBSM0KPOp0lrKPg
-[instagram]: https://www.instagram.com/tushu499/
+[instagram]: https://www.instagram.com/tushar499_/
 [linkedin]: https://www.linkedin.com/in/mhamudur-rahman-tushar/
 [telegram]: https://t.me/Tushar499
 	<br />
